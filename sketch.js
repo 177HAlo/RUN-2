@@ -74,7 +74,7 @@ function draw() {
   textSize(20)
   fill("withe")
 // text(mouseX+"-"+mouseY,10,30)
-    text(" made in caleb",10,30)
+    text(" Made in Caleb 2022 20 abril",10,30)
 //puntaje
  text("puntaje.. "+puntos,478,39)
  // puntos=frameCount
